@@ -1,0 +1,13 @@
+/home/jo/JosePedro_DotNet/bin/Debug/netcoreapp3.1/JosePedro_DotNet
+/home/jo/JosePedro_DotNet/bin/Debug/netcoreapp3.1/JosePedro_DotNet.deps.json
+/home/jo/JosePedro_DotNet/bin/Debug/netcoreapp3.1/JosePedro_DotNet.runtimeconfig.json
+/home/jo/JosePedro_DotNet/bin/Debug/netcoreapp3.1/JosePedro_DotNet.runtimeconfig.dev.json
+/home/jo/JosePedro_DotNet/bin/Debug/netcoreapp3.1/JosePedro_DotNet.dll
+/home/jo/JosePedro_DotNet/bin/Debug/netcoreapp3.1/JosePedro_DotNet.pdb
+/home/jo/JosePedro_DotNet/obj/Debug/netcoreapp3.1/JosePedro_DotNet.csprojAssemblyReference.cache
+/home/jo/JosePedro_DotNet/obj/Debug/netcoreapp3.1/JosePedro_DotNet.AssemblyInfoInputs.cache
+/home/jo/JosePedro_DotNet/obj/Debug/netcoreapp3.1/JosePedro_DotNet.AssemblyInfo.cs
+/home/jo/JosePedro_DotNet/obj/Debug/netcoreapp3.1/JosePedro_DotNet.csproj.CoreCompileInputs.cache
+/home/jo/JosePedro_DotNet/obj/Debug/netcoreapp3.1/JosePedro_DotNet.dll
+/home/jo/JosePedro_DotNet/obj/Debug/netcoreapp3.1/JosePedro_DotNet.pdb
+/home/jo/JosePedro_DotNet/obj/Debug/netcoreapp3.1/JosePedro_DotNet.genruntimeconfig.cache
