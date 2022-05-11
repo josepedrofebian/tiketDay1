@@ -17,7 +17,7 @@ namespace JosePedro_DotNet
             Console.WriteLine(f.sumFibonacci(100));
 
             Console.WriteLine("sum of all the prime below 2 million");
-            Console.WriteLine(sop.sumOfPrimes(10));
+            Console.WriteLine(sop.sumOfPrimes(2000000));
             
         }
     }

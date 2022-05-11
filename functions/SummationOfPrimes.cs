@@ -5,26 +5,26 @@ namespace JosePedro_DotNet
     class SummationOfPrimes
     {
         int sum = 0;
-        bool prime = true;
-
         public int sumOfPrimes(int n)
         {
-            if(n >= 2){
-                for (int i = 2; i < n; i++)
+            
+                for (int i = 1; i < n; i++)
                 {
-                   for (int j = 0; j < i; j++)
+                    int tot = 0;
+                   for (int j = 1; j < n; j++)
                    {
                        if ((i % j)==0)
                        {
-                           prime = false;
-                           break;
+                           tot++;
                        }
                    }
-                   if(prime) {
-                       sum++;
+                   if (tot == 2 && i != 1) {
+                    //    Console.WriteLine("prime :"+ i);
+                   sum = sum + i;
                    }
+
                 }
-            }
+            
             return sum;
         }
     }
