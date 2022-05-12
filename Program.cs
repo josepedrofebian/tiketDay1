@@ -18,8 +18,8 @@ namespace JosePedro_DotNet
             Console.WriteLine("sum fibonacci of the even-valued below 4 millions");
             Console.WriteLine(f.sumFibonacci(100));
 
-            // Console.WriteLine("sum of all the prime below 2 million");
-            // Console.WriteLine(sop.sumOfPrimes(10));
+            Console.WriteLine("sum of all the prime below 2 million");
+            Console.WriteLine(sop.sumOfPrimes(2000000));
 
             Console.WriteLine("sum of sundays fell on the first of the month during the twentieth century");
             Console.WriteLine(cs.countSundays());
